@@ -1,2 +1,1 @@
 - 👋Hello there I’m Raed Ghabi
-- 👀 I’m a full stack &gtn;web&ltn; </dev> 
